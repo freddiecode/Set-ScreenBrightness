@@ -1,3 +1,3 @@
 # Set-ScreenBrightness
 
-## Allows you to adjust your screen brightness using PowerShell
+### Allows you to adjust your screen brightness using PowerShell
