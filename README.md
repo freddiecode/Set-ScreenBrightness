@@ -24,7 +24,7 @@ Set-ScreenBrightness 50
 
 ## Credit
 
-Developed by: Freddie Christiansen | [CloudPilot.no](www.cloudpilot.no)
+Developed by: Freddie Christiansen | [CloudPilot.no](www.cloudpilot.no) | 2021
 
 
 ## License
